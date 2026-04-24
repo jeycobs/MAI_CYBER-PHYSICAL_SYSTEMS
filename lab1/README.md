@@ -1,5 +1,5 @@
 # лр 1: CV
-
+##задание на 5, код + вывод внутри jupyter файла
 ## инструкция по запуску 
 
 1. Клонируйте репозиторий:
@@ -10,3 +10,4 @@
     venv\Scripts\activate     #для windows 
     pip install -r requirements.txt
     открыть в jupiter notebook
+    запускать код внутри
