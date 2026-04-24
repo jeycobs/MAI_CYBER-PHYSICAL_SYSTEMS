@@ -10,6 +10,6 @@
    source venv/bin/activate  #для unix-like систем
     venv\Scripts\activate     #для windows 
     pip install -r requirements.txt
-   '''
+  
  открыть в jupiter notebook
 запускать код внутри
